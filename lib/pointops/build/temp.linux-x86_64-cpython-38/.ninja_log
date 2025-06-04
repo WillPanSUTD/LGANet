@@ -1,0 +1,14 @@
+# ninja log v5
+45	31331	1742461412299664200	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda.o	7c5e7c5c8951ffe8
+33	31989	1742461412475211700	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda.o	aa4bde81b1f8d0a
+48	32017	1742461412626971700	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda.o	aab36be4a8208e3a
+37	32046	1742461413008133900	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda.o	797355a7fe83a67d
+40	32413	1742461413360201200	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda.o	cc961e44f97ebb33
+39	44376	1742461425367930500	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/grouping/grouping_cuda_kernel.o	d29ae20f9f7e22b7
+34	45501	1742461426489134200	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/knnquery/knnquery_cuda_kernel.o	c413306ceda57707
+42	46064	1742461427055463700	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/interpolation/interpolation_cuda_kernel.o	ae7d572b798f6630
+36	46575	1742461427566196100	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/aggregation/aggregation_cuda_kernel.o	66711e715fd337e3
+47	50142	1742461431119590300	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/pointops_api.o	96518839efc4ad63
+32000	54703	1742461435686811100	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda.o	4154e95663717096
+32031	64341	1742461445336795200	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/subtraction/subtraction_cuda_kernel.o	1bd123e9181aa80a
+31975	64529	1742461445523782800	/mnt/c/Users/PanWei/OneDrive - OPT CO., LTD/code/playground/sealingNail/lib/pointops/build/temp.linux-x86_64-cpython-38/src/sampling/sampling_cuda_kernel.o	c7b88c67a48581f9
