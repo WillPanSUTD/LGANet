@@ -93,7 +93,9 @@ This project implements a defect detection system for automotive battery sealing
 ---
 
 ## Dataset Structure
-
+Data can be downloaded from 
+TXT format: https://drive.google.com/file/d/1zyCQI2J5TFcRKKLp0KkUvsXCY-D-nVCV/view?usp=drive_link
+NPZ format: https://drive.google.com/file/d/1_ni0_XzQVsQ5ehoDo1MfV0wjTkiN1XjO/view?usp=drive_link
 The dataset is organized as follows:
 
 ```
