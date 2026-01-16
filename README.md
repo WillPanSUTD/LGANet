@@ -223,4 +223,19 @@ If you consider our work useful, please cite:
   publisher = {Elsevier}
 }
 
+## 🙏 Acknowledgements
+
+This work was supported in part by **OPT Machine Vision** through internal research and development projects on industrial 3D vision and point cloud inspection systems.
+
+The authors would like to thank all collaborators involved in data collection, annotation, and system deployment for automotive battery sealing nail inspection. We also appreciate the constructive feedback from anonymous reviewers, which helped improve the quality and clarity of this work.
+
+In addition, we acknowledge the open-source contributions from the community. This project benefits from several excellent open-source works in point cloud processing and graph-based learning, including but not limited to:
+
+- [PointNet++](https://github.com/charlesq34/pointnet2)
+- [DGCNN](https://github.com/WangYueFt/dgcnn)
+- [DeepGCN](https://github.com/lightaime/deep_gcns_torch)
+- [PointNeXt](https://github.com/guochengqian/PointNeXt)
+
+We sincerely thank the authors of these works for making their code publicly available, which greatly facilitated reproducibility and comparative evaluation. 
+Parts of the implementation are adapted or inspired by prior works, with appropriate modifications for industrial point cloud segmentation scenarios.
 
