@@ -208,3 +208,19 @@ The system supports multiple evaluation metrics:
 4. Training logs and model weights are saved under the `logs/` directory
 
 
+## Citation
+
+If you consider our work useful, please cite:
+
+```bibtex
+@article{pan2026improved,
+  title   = {An improved graph attention network for semantic segmentation of industrial point clouds in automotive battery sealing nail defect detection},
+  author  = {Pan, Wei and Wu, Yuhao and Tang, Wenming and Lu, Qinghua and Zhang, Yunzhi},
+  journal = {Engineering Applications of Artificial Intelligence},
+  volume  = {163},
+  pages   = {112793},
+  year    = {2026},
+  publisher = {Elsevier}
+}
+
+
