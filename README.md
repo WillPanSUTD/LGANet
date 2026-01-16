@@ -35,10 +35,9 @@ This project implements a defect detection system for automotive battery sealing
 The dataset used in this project is collected from real-world industrial production lines for automotive battery sealing nail inspection.
 
 All point cloud data are acquired using industrial 3D vision systems deployed in controlled manufacturing environments, covering various defect types such as surface deformation, misalignment, and structural anomalies of sealing nails. The image acquisition and imaging module consists of
-a 3D line laser scanning camera with a mobile robotic platform and a test specimen. The battery is mounted on the
-mobile robot platform, and the calibrated 3D line laser scanning camera projects laser stripes onto the sealing nail area
-of the battery. Through synchronized image data acquisition during planar scanning trajectories, surface data of the
-sealing nail specimen are obtained.The data are manually annotated following a strict quality control process to ensure labeling accuracy and consistency.
+a Laser Profiler as a 3D scanning system (OPT-LPC20 Laser Profiler) with a mobile robotic platform and a test specimen. 
+The laser profiler is configured in linear scanning mode. The system uses a blue laser stripe (wavelength 405nm) with a profile acquisition rate of 10,000 profiles per second, ensuring high fidelity on metallic reflective surfaces.
+During scanning, the sealing nails were placed on a precision rotary stage to ensure uniform coverage. The scanning speed was set to 10mm/s, and each profile captured 3000 points across the horizontal axis, resulting in a lateral resolution of ~0.05mm and vertical depth accuracy of <0.01mm. All scans were manually verified for completeness and noise artifacts.The battery is mounted on the mobile robot platform, and the calibrated 3D line laser scanning camera projects laser stripes onto the sealing nail area of the battery. Through synchronized image data acquisition during planar scanning trajectories, surface data of thesealing nail specimen are obtained.The data are manually annotated following a strict quality control process to ensure labeling accuracy and consistency.
 
 ---
 
