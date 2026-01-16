@@ -24,6 +24,24 @@ This project implements a defect detection system for automotive battery sealing
 
 ---
 
+
+## Data Acquisition
+
+
+<p align="center">
+  <img src="figures/data_acqusition.png" alt="data source" width="85%">
+</p>
+
+The dataset used in this project is collected from real-world industrial production lines for automotive battery sealing nail inspection.
+
+All point cloud data are acquired using industrial 3D vision systems deployed in controlled manufacturing environments, covering various defect types such as surface deformation, misalignment, and structural anomalies of sealing nails. The image acquisition and imaging module consists of
+a 3D line laser scanning camera with a mobile robotic platform and a test specimen. The battery is mounted on the
+mobile robot platform, and the calibrated 3D line laser scanning camera projects laser stripes onto the sealing nail area
+of the battery. Through synchronized image data acquisition during planar scanning trajectories, surface data of the
+sealing nail specimen are obtained.The data are manually annotated following a strict quality control process to ensure labeling accuracy and consistency.
+
+---
+
 ## Technical Architecture
 
 * Built on the PyTorch deep learning framework
