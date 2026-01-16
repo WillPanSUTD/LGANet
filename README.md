@@ -6,6 +6,11 @@ LGANet： An improved Graph Attention Network for Semantic Segmentation of Indus
 
 ## Project Overview
 
+<p align="center">
+  <img src="figures/graphical_abstract.png" alt="Graphical abstract of LGANet" width="85%">
+</p>
+
+
 This project implements a defect detection system for automotive battery sealing nails based on graph neural networks (GNNs). It uses point cloud data to classify surface defects. The system leverages a custom graph attention mechanism for feature extraction, enabling robust detection of various defect types on metal surfaces.
 
 ### Supported Defect Types
@@ -222,6 +227,8 @@ If you consider our work useful, please cite:
   year    = {2026},
   publisher = {Elsevier}
 }
+```
+
 
 ## 🙏 Acknowledgements
 
