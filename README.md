@@ -260,6 +260,7 @@ In addition, we acknowledge the open-source contributions from the community. Th
 - [DGCNN](https://github.com/WangYueFt/dgcnn)
 - [DeepGCN](https://github.com/lightaime/deep_gcns_torch)
 - [PointNeXt](https://github.com/guochengqian/PointNeXt)
+- [PointOps](https://github.com/POSTECH-CVLab/pointops)
 
 We sincerely thank the authors of these works for making their code publicly available, which greatly facilitated reproducibility and comparative evaluation. 
 Parts of the implementation are adapted or inspired by prior works, with appropriate modifications for industrial point cloud segmentation scenarios.
